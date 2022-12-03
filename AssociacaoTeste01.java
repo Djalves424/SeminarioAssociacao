@@ -10,7 +10,7 @@ public class AssociacaoTeste01 {
 	public static void main(String[] args) {
 
 		Local local = new Local("Rua das laranjeiras");
-		Aluno aluno = new Aluno("Jessica, ", 45);
+		Aluno aluno = new Aluno("Kuririn, ", 36);
 		Professor professor = new Professor("Barba Branca", "Pirata");
 		Aluno[] alunosParaSeminario = { aluno };
 
